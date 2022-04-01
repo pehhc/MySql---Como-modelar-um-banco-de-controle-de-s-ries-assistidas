@@ -1,0 +1,16 @@
+<!DOCTYPEhtml >
+< html  lang =" en " >
+  < cabeça >
+    < meta  charset =" utf-8 " />
+    < meta  name =" viewport " content =" largura=largura do dispositivo, escala inicial=1 " />
+    
+     <!-- CSS compilado e reduzido -->
+     < link  href =" https://fonts.googleapis.com/icon?family=Material+Icons " rel =" folha de estilo " >
+    < title > Controle de séries e filmes </ title >
+  </ cabeça >
+  < classe do corpo  =" recipiente " >
+    < noscript > Você precisa habilitar o JavaScript para executar este aplicativo. </ noscript >
+    < div  id =" root " > </ div >
+ 
+  </ corpo >
+</ html >
